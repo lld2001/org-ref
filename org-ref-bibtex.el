@@ -63,7 +63,7 @@
 (require 'bibtex)
 (require 'dash)
 (require 'hydra)
-(require 'message)
+;; (require 'message)
 (require 's)
 (require 'doi-utils)
 (require 'avy)
